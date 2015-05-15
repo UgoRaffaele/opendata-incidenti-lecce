@@ -29,3 +29,4 @@ proguard/
 # OSX Files
 .DS_Store
 ._.DS_Store
+._*
