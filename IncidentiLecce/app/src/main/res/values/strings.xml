@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Incidenti @Lecce</string>
+    
+    <string name="activity_map_title">Mappa interattiva</string>
+    <string name="activity_graph_natura_title">Statistiche per Natura</string>
+    <string name="activity_graph_orario_title">Statistiche per Orario</string>
+    <string name="action_credits">Credits</string>
+    
+    <string-array name="activities">
+        <item>Mappa interattiva</item>
+        <item>Statistiche per Natura</item>
+        <item>Statistiche per Orario</item>
+    </string-array>
+    
+    <string-array name="mapSpinnerItems">
+        <item>Totale Incidenti</item>
+        <item>Persone Coinvolte</item>
+        <item>Prognosi Riservate</item>
+        <item>Illesi</item>
+        <item>Feriti</item>
+        <item>Morti</item>
+    </string-array>
+    
+    <string-array name="naturaSpinnerItems">
+        <item>Scontro laterale fra veicoli in marcia</item>
+        <item>Scontro frontale/laterale DX fra veicoli in marcia</item>
+        <item>Scontro frontale/laterale SX fra veicoli in marcia</item>
+        <item>Tamponamento</item>
+        <item>Investimento di pedone</item>
+        <item>Fuoriuscita dalla sede stradale</item>
+        <item>Veicolo in marcia contro veicolo in sosta</item>
+        <item>Veicolo in marcia contro ostacolo fisso</item>
+        <item>Scontro frontale fra veicoli in marcia</item>
+        <item>Tamponamento Multiplo</item>
+        <item>Veicolo in marcia contro veicoli in sosta</item>
+        <item>Infortunio per sola frenata improvvisa</item>
+        <item>Infortunio per caduta da veicolo</item>
+        <item>Veicolo in marcia contro veicolo fermo</item>
+        <item>Ribaltamento senza urto contro ostacolo fisso</item>
+        <item>Veicolo in marcia contro veicolo arresto</item>
+        <item>Veicolo in marcia contro ostacolo accidentale</item>
+        <item>Veicolo in marcia contro veicoli in arresto</item>
+    </string-array>
+    
+    <string name="loading_text_primoavvio">Per favore attendi, sto caricando per la prima volta il dataset&#8230;</string>
+    <string name="loading_text_avvio">Elaborazione del dataset in corso&#8230;</string>
+
+    <string name="primoavvio_no_network_settings">Impostazioni</string>
+    <string name="primoavvio_no_network_description">Devi essere connesso durante il primo caricamento del dataset&#8230;</string>
+
+    <string name="default_text_natura">Natura</string>
+    <string name="default_text_totale">Totale incidenti</string>
+    
+    <string name="credits_developed_by">Developed by\nUgo Raffaele Piemontese</string>
+    <string name="developed_by_link">http://www.ugopiemontese.eu</string>
+    <string name="credits_data_provided_by">Dataset provided by\nComune di Lecce</string>
+    <string name="credits_data_link">http://dati.comune.lecce.it</string>
+
+</resources>

@@ -1,0 +1,3224 @@
+[
+  {
+    "Strada":"Viale Giovanni Paolo II",
+    "Totale incidenti":17,
+    "Persone coinvolte":39,
+    "Illesi":22,
+    "Morti":"0",
+    "Prognosi Riservate":2,
+    "Feriti":15
+  },
+  {
+    "Strada":"Viale Gallipoli",
+    "Totale incidenti":14,
+    "Persone coinvolte":43,
+    "Illesi":26,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":17
+  },
+  {
+    "Strada":"Viale Dell'Universit&agrave",
+    "Totale incidenti":14,
+    "Persone coinvolte":36,
+    "Illesi":18,
+    "Morti":"0",
+    "Prognosi Riservate":1,
+    "Feriti":17
+  },
+  {
+    "Strada":"Viale Della Libert&agrave;",
+    "Totale incidenti":14,
+    "Persone coinvolte":27,
+    "Illesi":15,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":12
+  },
+  {
+    "Strada":"Via Di Leuca",
+    "Totale incidenti":13,
+    "Persone coinvolte":31,
+    "Illesi":17,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":14
+  },
+  {
+    "Strada":"Viale Grassi",
+    "Totale incidenti":20,
+    "Persone coinvolte":57,
+    "Illesi":34,
+    "Morti":"0",
+    "Prognosi Riservate":1,
+    "Feriti":22
+  },
+  {
+    "Strada":"Viale Japigia",
+    "Totale incidenti":12,
+    "Persone coinvolte":26,
+    "Illesi":15,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":11
+  },
+  {
+    "Strada":"Viale Otranto",
+    "Totale incidenti":11,
+    "Persone coinvolte":31,
+    "Illesi":23,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":8
+  },
+  {
+    "Strada":"Viale XXV Luglio",
+    "Totale incidenti":11,
+    "Persone coinvolte":18,
+    "Illesi":10,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":8
+  },
+  {
+    "Strada":"Viale Felice Cavallotti",
+    "Totale incidenti":11,
+    "Persone coinvolte":23,
+    "Illesi":14,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":9
+  },
+  {
+    "Strada":"Tangenziale Est",
+    "Totale incidenti":11,
+    "Persone coinvolte":14,
+    "Illesi":7,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":7
+  },
+  {
+    "Strada":"Via Lequile",
+    "Totale incidenti":11,
+    "Persone coinvolte":26,
+    "Illesi":14,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":12
+  },
+  {
+    "Strada":"Via Taranto",
+    "Totale incidenti":10,
+    "Persone coinvolte":23,
+    "Illesi":15,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":8
+  },
+  {
+    "Strada":"Piazzale Rudiae",
+    "Totale incidenti":10,
+    "Persone coinvolte":28,
+    "Illesi":22,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":6
+  },
+  {
+    "Strada":"Via Merine",
+    "Totale incidenti":9,
+    "Persone coinvolte":21,
+    "Illesi":10,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":11
+  },
+  {
+    "Strada":"Via Ugo Foscolo",
+    "Totale incidenti":9,
+    "Persone coinvolte":14,
+    "Illesi":9,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Viale G. Rossini",
+    "Totale incidenti":20,
+    "Persone coinvolte":46,
+    "Illesi":24,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":22
+  },
+  {
+    "Strada":"Viale Marche",
+    "Totale incidenti":8,
+    "Persone coinvolte":11,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":6
+  },
+  {
+    "Strada":"Viale Don Minzoni",
+    "Totale incidenti":8,
+    "Persone coinvolte":18,
+    "Illesi":13,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Viale Della Repubblica",
+    "Totale incidenti":8,
+    "Persone coinvolte":20,
+    "Illesi":13,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":7
+  },
+  {
+    "Strada":"Via Giammatteo",
+    "Totale incidenti":8,
+    "Persone coinvolte":15,
+    "Illesi":10,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Via Michele De Pietro",
+    "Totale incidenti":8,
+    "Persone coinvolte":16,
+    "Illesi":14,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Armando Diaz",
+    "Totale incidenti":8,
+    "Persone coinvolte":24,
+    "Illesi":14,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":10
+  },
+  {
+    "Strada":"Tangenziale Ovest",
+    "Totale incidenti":7,
+    "Persone coinvolte":12,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":7
+  },
+  {
+    "Strada":"Via Monteroni",
+    "Totale incidenti":7,
+    "Persone coinvolte":17,
+    "Illesi":9,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":8
+  },
+  {
+    "Strada":"Via Po",
+    "Totale incidenti":7,
+    "Persone coinvolte":13,
+    "Illesi":8,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Via Rudiae",
+    "Totale incidenti":7,
+    "Persone coinvolte":15,
+    "Illesi":10,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Viale Giacomo Leopardi",
+    "Totale incidenti":7,
+    "Persone coinvolte":16,
+    "Illesi":10,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":6
+  },
+  {
+    "Strada":"Viale Francesco Lo Re",
+    "Totale incidenti":7,
+    "Persone coinvolte":22,
+    "Illesi":15,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":7
+  },
+  {
+    "Strada":"Viale Leopardi",
+    "Totale incidenti":12,
+    "Persone coinvolte":25,
+    "Illesi":11,
+    "Morti":"1",
+    "Prognosi Riservate":0,
+    "Feriti":13
+  },
+  {
+    "Strada":"Viale Vittorio Alfieri",
+    "Totale incidenti":7,
+    "Persone coinvolte":19,
+    "Illesi":10,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":9
+  },
+  {
+    "Strada":"Viale Porta D'Europa",
+    "Totale incidenti":6,
+    "Persone coinvolte":17,
+    "Illesi":12,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Viale Aldo Moro",
+    "Totale incidenti":6,
+    "Persone coinvolte":12,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":8
+  },
+  {
+    "Strada":"Viale Calasso",
+    "Totale incidenti":6,
+    "Persone coinvolte":17,
+    "Illesi":12,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Via Salvatore Trinchese",
+    "Totale incidenti":6,
+    "Persone coinvolte":17,
+    "Illesi":13,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via San Cesario",
+    "Totale incidenti":6,
+    "Persone coinvolte":17,
+    "Illesi":11,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":6
+  },
+  {
+    "Strada":"Piazza Del Bastione",
+    "Totale incidenti":6,
+    "Persone coinvolte":15,
+    "Illesi":15,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"S.P. Lecce- Novoli Nr. 4",
+    "Totale incidenti":6,
+    "Persone coinvolte":11,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":10
+  },
+  {
+    "Strada":"Strada Statale 16",
+    "Totale incidenti":5,
+    "Persone coinvolte":6,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Via Antonio Dell'Abate",
+    "Totale incidenti":5,
+    "Persone coinvolte":10,
+    "Illesi":6,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via Benedetto Croce",
+    "Totale incidenti":5,
+    "Persone coinvolte":14,
+    "Illesi":10,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via Di Pettorano",
+    "Totale incidenti":5,
+    "Persone coinvolte":10,
+    "Illesi":8,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Dalmazio Birago",
+    "Totale incidenti":5,
+    "Persone coinvolte":13,
+    "Illesi":9,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via Pitagora",
+    "Totale incidenti":5,
+    "Persone coinvolte":10,
+    "Illesi":6,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via Ortigara",
+    "Totale incidenti":5,
+    "Persone coinvolte":16,
+    "Illesi":11,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Via Gaetano Argento",
+    "Totale incidenti":5,
+    "Persone coinvolte":9,
+    "Illesi":7,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Francesco Calasso",
+    "Totale incidenti":5,
+    "Persone coinvolte":19,
+    "Illesi":13,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":6
+  },
+  {
+    "Strada":"Via Giovanni Gentile",
+    "Totale incidenti":5,
+    "Persone coinvolte":12,
+    "Illesi":6,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":6
+  },
+  {
+    "Strada":"Via Lupiae",
+    "Totale incidenti":5,
+    "Persone coinvolte":10,
+    "Illesi":7,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Guglielmo Oberdan",
+    "Totale incidenti":5,
+    "Persone coinvolte":15,
+    "Illesi":10,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Via XX Settembre",
+    "Totale incidenti":5,
+    "Persone coinvolte":15,
+    "Illesi":11,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Viale Del Risorgimento",
+    "Totale incidenti":5,
+    "Persone coinvolte":12,
+    "Illesi":7,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Viale Torre Del Parco",
+    "Totale incidenti":5,
+    "Persone coinvolte":9,
+    "Illesi":6,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Viale Ugo Foscolo",
+    "Totale incidenti":7,
+    "Persone coinvolte":10,
+    "Illesi":7,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Sindaco Lupinacci",
+    "Totale incidenti":4,
+    "Persone coinvolte":11,
+    "Illesi":8,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Viale De Pietro",
+    "Totale incidenti":4,
+    "Persone coinvolte":11,
+    "Illesi":7,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via Vecchia Carmiano",
+    "Totale incidenti":4,
+    "Persone coinvolte":15,
+    "Illesi":10,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Via Vernole",
+    "Totale incidenti":4,
+    "Persone coinvolte":15,
+    "Illesi":8,
+    "Morti":"0",
+    "Prognosi Riservate":1,
+    "Feriti":6
+  },
+  {
+    "Strada":"Via Imperatore Adriano",
+    "Totale incidenti":4,
+    "Persone coinvolte":14,
+    "Illesi":8,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":6
+  },
+  {
+    "Strada":"Via Leuca",
+    "Totale incidenti":4,
+    "Persone coinvolte":10,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Via Malta",
+    "Totale incidenti":4,
+    "Persone coinvolte":14,
+    "Illesi":8,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":6
+  },
+  {
+    "Strada":"Via Generale Francesco Poli",
+    "Totale incidenti":4,
+    "Persone coinvolte":9,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Via Oslavia",
+    "Totale incidenti":4,
+    "Persone coinvolte":14,
+    "Illesi":10,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via Padre Bernardino Realino",
+    "Totale incidenti":4,
+    "Persone coinvolte":9,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via Nino Bixio",
+    "Totale incidenti":4,
+    "Persone coinvolte":9,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":7
+  },
+  {
+    "Strada":"Via Pozzuolo",
+    "Totale incidenti":4,
+    "Persone coinvolte":7,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via San Nicola",
+    "Totale incidenti":4,
+    "Persone coinvolte":6,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":6
+  },
+  {
+    "Strada":"Via Di Porcigliano",
+    "Totale incidenti":4,
+    "Persone coinvolte":8,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":1,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Duca Degli Abruzzi",
+    "Totale incidenti":4,
+    "Persone coinvolte":14,
+    "Illesi":9,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Via Fornello Casale",
+    "Totale incidenti":4,
+    "Persone coinvolte":11,
+    "Illesi":10,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Antonio Gramsci",
+    "Totale incidenti":4,
+    "Persone coinvolte":6,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via A. De Gasperi",
+    "Totale incidenti":4,
+    "Persone coinvolte":7,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":6
+  },
+  {
+    "Strada":"Via Alessandro Manzoni",
+    "Totale incidenti":4,
+    "Persone coinvolte":9,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Strada Provinciale Lecce-Frigole",
+    "Totale incidenti":4,
+    "Persone coinvolte":6,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Piazza Del Palio",
+    "Totale incidenti":4,
+    "Persone coinvolte":7,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":1,
+    "Feriti":2
+  },
+  {
+    "Strada":"Piazza D'Italia",
+    "Totale incidenti":4,
+    "Persone coinvolte":10,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":6
+  },
+  {
+    "Strada":"Piazza Angelo Rizzo",
+    "Totale incidenti":4,
+    "Persone coinvolte":14,
+    "Illesi":12,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Piazza Carmelo Bene",
+    "Totale incidenti":3,
+    "Persone coinvolte":13,
+    "Illesi":7,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":6
+  },
+  {
+    "Strada":"S.P. N. 364 San Cataldo - Lecce",
+    "Totale incidenti":5,
+    "Persone coinvolte":10,
+    "Illesi":8,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Adriatica",
+    "Totale incidenti":3,
+    "Persone coinvolte":9,
+    "Illesi":7,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Achille Costa",
+    "Totale incidenti":3,
+    "Persone coinvolte":9,
+    "Illesi":7,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Antonio Salandra",
+    "Totale incidenti":3,
+    "Persone coinvolte":5,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via B. Croce",
+    "Totale incidenti":3,
+    "Persone coinvolte":4,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Cesare Abba",
+    "Totale incidenti":3,
+    "Persone coinvolte":3,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Cicolella",
+    "Totale incidenti":3,
+    "Persone coinvolte":8,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via Colonnello Archimede Costadura",
+    "Totale incidenti":3,
+    "Persone coinvolte":7,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Di Vereto",
+    "Totale incidenti":3,
+    "Persone coinvolte":7,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via San Domenico Savio",
+    "Totale incidenti":3,
+    "Persone coinvolte":8,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Rocco Scotellaro",
+    "Totale incidenti":3,
+    "Persone coinvolte":5,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":1,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Pistoia",
+    "Totale incidenti":3,
+    "Persone coinvolte":7,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":1,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Piero Della Francesca",
+    "Totale incidenti":3,
+    "Persone coinvolte":8,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Via Regina Elena",
+    "Totale incidenti":3,
+    "Persone coinvolte":4,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via Padre Bonaventura Da Lama",
+    "Totale incidenti":3,
+    "Persone coinvolte":8,
+    "Illesi":6,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Piave",
+    "Totale incidenti":3,
+    "Persone coinvolte":11,
+    "Illesi":6,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Via G. Moscati",
+    "Totale incidenti":3,
+    "Persone coinvolte":6,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via G. Oberdan",
+    "Totale incidenti":3,
+    "Persone coinvolte":3,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Giuseppe Garibaldi",
+    "Totale incidenti":3,
+    "Persone coinvolte":6,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Luigi Corvaglia",
+    "Totale incidenti":3,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Luigi Pappacoda",
+    "Totale incidenti":3,
+    "Persone coinvolte":7,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Martino Marinosci",
+    "Totale incidenti":3,
+    "Persone coinvolte":12,
+    "Illesi":11,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Liborio Salomi",
+    "Totale incidenti":3,
+    "Persone coinvolte":7,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Lodi",
+    "Totale incidenti":3,
+    "Persone coinvolte":6,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Via Vecchia Lizzanello",
+    "Totale incidenti":3,
+    "Persone coinvolte":7,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":1,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via Vecchia San Pietro In Lama",
+    "Totale incidenti":3,
+    "Persone coinvolte":7,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Viale Gioacchino Rossini",
+    "Totale incidenti":3,
+    "Persone coinvolte":5,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Viale Roma",
+    "Totale incidenti":3,
+    "Persone coinvolte":5,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Viale Guglielmo Marconi",
+    "Totale incidenti":3,
+    "Persone coinvolte":4,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Viale San Nicola",
+    "Totale incidenti":2,
+    "Persone coinvolte":5,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Vecchia Merine",
+    "Totale incidenti":2,
+    "Persone coinvolte":4,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Vecchia San Cesario",
+    "Totale incidenti":2,
+    "Persone coinvolte":4,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Verona",
+    "Totale incidenti":2,
+    "Persone coinvolte":2,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Ludovico Maremonti",
+    "Totale incidenti":2,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Luigi Carluccio",
+    "Totale incidenti":2,
+    "Persone coinvolte":5,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Guido Dorso",
+    "Totale incidenti":2,
+    "Persone coinvolte":1,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Giuseppe Verdi",
+    "Totale incidenti":2,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Giuseppe Zanardelli",
+    "Totale incidenti":2,
+    "Persone coinvolte":7,
+    "Illesi":6,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Giustino De Iacobis",
+    "Totale incidenti":2,
+    "Persone coinvolte":4,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Martiri D'Otranto",
+    "Totale incidenti":2,
+    "Persone coinvolte":4,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Massaglia",
+    "Totale incidenti":2,
+    "Persone coinvolte":4,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Luigi Tasselli",
+    "Totale incidenti":2,
+    "Persone coinvolte":3,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Giuseppe Moscati",
+    "Totale incidenti":2,
+    "Persone coinvolte":10,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":6
+  },
+  {
+    "Strada":"Via Roggerone A. G.",
+    "Totale incidenti":9,
+    "Persone coinvolte":28,
+    "Illesi":10,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":18
+  },
+  {
+    "Strada":"Via Giorgio De Chirico",
+    "Totale incidenti":2,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via G. Leonardo Marugi",
+    "Totale incidenti":2,
+    "Persone coinvolte":5,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Francesco Milizia",
+    "Totale incidenti":2,
+    "Persone coinvolte":5,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Papatodero",
+    "Totale incidenti":2,
+    "Persone coinvolte":3,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Paisiello",
+    "Totale incidenti":2,
+    "Persone coinvolte":7,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Pantelleria",
+    "Totale incidenti":2,
+    "Persone coinvolte":4,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Montello",
+    "Totale incidenti":2,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Orsini Ducas",
+    "Totale incidenti":2,
+    "Persone coinvolte":6,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Nizza",
+    "Totale incidenti":2,
+    "Persone coinvolte":8,
+    "Illesi":6,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Novantacinquesimo Reggimento Fanteria",
+    "Totale incidenti":2,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Oronzo De Donno",
+    "Totale incidenti":2,
+    "Persone coinvolte":3,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Monticelli",
+    "Totale incidenti":2,
+    "Persone coinvolte":8,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Via Salvatore Grande",
+    "Totale incidenti":2,
+    "Persone coinvolte":7,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":5
+  },
+  {
+    "Strada":"Via Sicilia",
+    "Totale incidenti":2,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Sardegna",
+    "Totale incidenti":2,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Tito Minniti",
+    "Totale incidenti":2,
+    "Persone coinvolte":7,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via San Francesco D'Assisi",
+    "Totale incidenti":2,
+    "Persone coinvolte":9,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via San Pietro In Lama",
+    "Totale incidenti":2,
+    "Persone coinvolte":2,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Di Valesio",
+    "Totale incidenti":2,
+    "Persone coinvolte":4,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Duca D'Aosta",
+    "Totale incidenti":2,
+    "Persone coinvolte":4,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Flumendosa",
+    "Totale incidenti":2,
+    "Persone coinvolte":6,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Don Bosco",
+    "Totale incidenti":2,
+    "Persone coinvolte":4,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via E. Sozzo",
+    "Totale incidenti":2,
+    "Persone coinvolte":6,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via E. Toti",
+    "Totale incidenti":2,
+    "Persone coinvolte":7,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Antonio D'Andrea",
+    "Totale incidenti":2,
+    "Persone coinvolte":6,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via Cesare Battisti",
+    "Totale incidenti":2,
+    "Persone coinvolte":8,
+    "Illesi":7,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Casale Cerrate",
+    "Totale incidenti":2,
+    "Persone coinvolte":5,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Cavalieri Ordine Vittorio Veneto",
+    "Totale incidenti":2,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Braccio Martello",
+    "Totale incidenti":2,
+    "Persone coinvolte":4,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Calore",
+    "Totale incidenti":2,
+    "Persone coinvolte":6,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Asti",
+    "Totale incidenti":2,
+    "Persone coinvolte":7,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via Antonio Bortone",
+    "Totale incidenti":2,
+    "Persone coinvolte":5,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Adige",
+    "Totale incidenti":2,
+    "Persone coinvolte":5,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Abruzzi",
+    "Totale incidenti":2,
+    "Persone coinvolte":6,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via 20 Settembre",
+    "Totale incidenti":2,
+    "Persone coinvolte":6,
+    "Illesi":6,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Alfonso Lamarmora",
+    "Totale incidenti":2,
+    "Persone coinvolte":3,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Piazza Nicodemo Argento",
+    "Totale incidenti":2,
+    "Persone coinvolte":5,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"S.P. Lecce Arnesano",
+    "Totale incidenti":2,
+    "Persone coinvolte":3,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Area Interna Ospedale \"Vito Fazzi\"",
+    "Totale incidenti":2,
+    "Persone coinvolte":3,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Bretella Di Collegamento Per La Tangenziale",
+    "Totale incidenti":2,
+    "Persone coinvolte":7,
+    "Illesi":7,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Piazza Giuseppe Verdi",
+    "Totale incidenti":2,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":1,
+    "Feriti":0
+  },
+  {
+    "Strada":"Piazza Giuseppe Mazzini",
+    "Totale incidenti":6,
+    "Persone coinvolte":13,
+    "Illesi":6,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":7
+  },
+  {
+    "Strada":"Piazza Giuseppe Libertini",
+    "Totale incidenti":2,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"S.P. Nr. 298 Lecce - Lepore",
+    "Totale incidenti":3,
+    "Persone coinvolte":4,
+    "Illesi":0,
+    "Morti":"1",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"S. S. N. 101 \"Lecce - Gallipoli\"",
+    "Totale incidenti":2,
+    "Persone coinvolte":3,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"S.P. 1 Lecce - Vernole",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"S.P. 132 Lecce Frigole",
+    "Totale incidenti":5,
+    "Persone coinvolte":16,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":11
+  },
+  {
+    "Strada":"S.P. 133 Litoranea Frigole-T. Chianca",
+    "Totale incidenti":2,
+    "Persone coinvolte":2,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Piazzetta Anna Granito",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Piazzetta De Santis Brizio",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Piazzetta Girolamo Congedo",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Rampa Collegamento S.P. Nr. 364 Lecce-San Cataldo",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Rampa Collegamento Sp1 Lecce - Vernole",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"S.P. Nr. 93",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"S.P. 241",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"S.P. 364",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Strada Esterna Arnesano",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Strada Esterna Giammatteo",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Strada Esterna Pomponio Cali�",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Strada Provinciale 100",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Piazza Ludovico Ariosto",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Piazza Napoli",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Carreggiata Interna",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Largo Scipione De Monti",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Piazza Dei Partigiani",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Piazza Bottazzi",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"S.P. Lecce - Surbo Nr. 45",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Tangenziale Ovest Uscita 14",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Strada Provinciale Lecce-Surbo",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Strada Provinciale Surbo Torre Rinalda",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Tangenziale Est Uscita 2",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Alfredo Catalani",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Amerigo Vespucci",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Andrea Mantegna",
+    "Totale incidenti":1,
+    "Persone coinvolte":5,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Antonietta De Pace",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":1,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Adda",
+    "Totale incidenti":2,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Alberigo Longo",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Alcide De Gasperi",
+    "Totale incidenti":1,
+    "Persone coinvolte":5,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Aldo Masciullo",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Alessandria",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via 4 Novembre",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via 47� Rgt Fanteria",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Ada Cudazzo",
+    "Totale incidenti":1,
+    "Persone coinvolte":5,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Antonio Costanzo Casetti",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Archita Da Taranto",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Ariano Irpino",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Antonio Lenio",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Antonio Miglietta",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Attilio Biasco",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Aureliano De Mitri",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Ascanio Grandi",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Balsamo",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Bartolomeo Ravenna",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Basilicata",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Belice",
+    "Totale incidenti":1,
+    "Persone coinvolte":6,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Campania",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Capitano Ritucci",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Carlo Piaggia",
+    "Totale incidenti":1,
+    "Persone coinvolte":6,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Carlo Pisacane",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Carrara",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":1,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Bernardino Bonifacio",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Cesare Augusto Lucrezio",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":1,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Cosimo De Giorgi",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Costantino Dimidri",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Clementina Carrelli",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Clitumno",
+    "Totale incidenti":1,
+    "Persone coinvolte":6,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via E.A. Mario",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Egidio Reale",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Emilia",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Emma Indraccolo",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Ernesto Simini",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Esterna Di Leuca",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Eugenio Maccagnini",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Fabrizio De Andre'",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Ferdinando Donno",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Filippo Bacile",
+    "Totale incidenti":1,
+    "Persone coinvolte":6,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Filippo Smaldone",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Fiume",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Don Gaetano Quarta",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Don Giacomo Alberione",
+    "Totale incidenti":1,
+    "Persone coinvolte":5,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Don Guanella",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Francesco Bernardini",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Di Vaste",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Domenico Cantatore",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Domenico De Angelis",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Di Ussano",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Degli Ammirati",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Dei Patitari",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Del Cervone",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Del Mare",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Del Tigno",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Della Cavalleria",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Dell'Agricoltura",
+    "Totale incidenti":3,
+    "Persone coinvolte":13,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Delle Anime",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Delle Mimose",
+    "Totale incidenti":1,
+    "Persone coinvolte":7,
+    "Illesi":6,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Dell'Impia",
+    "Totale incidenti":1,
+    "Persone coinvolte":7,
+    "Illesi":6,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Sandalo",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Sant'Ignazio Di Loyola",
+    "Totale incidenti":1,
+    "Persone coinvolte":5,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Sant'Oronzo Fuori Le Mura",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via San Francesco D'Assisi (Corsia Interna)",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via San Lazzaro",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via San Ligorio",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Torre Mozza",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Taranto All'Altezza Della Rotatoria Posta",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Terni",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Scipione Fanuli",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Scrivia",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Ricciotto Canudo",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Roberto Di Biccari",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Pietro Cavoti",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Pietro Marti",
+    "Totale incidenti":1,
+    "Persone coinvolte":5,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Prato",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Principe Ducas Orsini",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Puglia",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via 147 Reggimento Fanteria",
+    "Totale incidenti":2,
+    "Persone coinvolte":2,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Rapolla",
+    "Totale incidenti":1,
+    "Persone coinvolte":7,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Reggio Emilia",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":1,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via N. Sauro",
+    "Totale incidenti":1,
+    "Persone coinvolte":5,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Nazario Sauro",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Niccolo Machiavelli",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Niccol� Tommaseo",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Nicola Andria",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Nicol� Ferrando",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Nicol� Foscarini",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Oronzo Massari",
+    "Totale incidenti":2,
+    "Persone coinvolte":5,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Orsini Del Balzo",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Nullo D'Amato",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Nutricati Trifone",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Mincio",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Monsignor Pasquale De Luca",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Ottavio Scalfo",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via P. Miceli",
+    "Totale incidenti":1,
+    "Persone coinvolte":9,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":4
+  },
+  {
+    "Strada":"Via Paolo Vi",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Parma",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Piemonte",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Francesco Petrarca",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Francesco Saverio Casavola",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Francesco Trinchera",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Franco Casavola",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Fratelli Peluso",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via G. Maggio",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Francesco Casotti",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Francesco D'Elia",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Gioacchino Toma",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Giorgio Almirante",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Gino De Sanctis",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Gino Rizzo",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Gabriele D'Annunzio",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Giacomo Matteotti",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Giovanni Andrea Coppola",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Giovanni Antonio Orsini De Balzo",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Giovanni Boccaccio",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Giovanni Guerrieri",
+    "Totale incidenti":1,
+    "Persone coinvolte":5,
+    "Illesi":4,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Giovanni Maria Moricino",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Giovanni Papini",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Giovanni Stano",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Girolamo Comi",
+    "Totale incidenti":1,
+    "Persone coinvolte":5,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Giuseppe Cino",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Giuseppe Codacci Pisanelli",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Giuseppe Della Vedova",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Giuseppe Parini",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Giuseppe Petraglione",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Luigi Vanvitelli",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Luigi De Simone",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Manifattura Tabacchi",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Marcello Chiatante",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Marco Aurelio",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Maria Caniglia",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Mario Moscardino",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Mario Nacci",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Massenzio Piccinni",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Maggiore Galliano",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Michelangelo Schipa",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":3
+  },
+  {
+    "Strada":"Via Gregorio Messere",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Guglielmo Massaglia",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Imbriani",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Imperatore Augusto",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Leonida Flascassovitti",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Lombardia",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Lucca",
+    "Totale incidenti":1,
+    "Persone coinvolte":1,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Liguria",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Liborio Romano",
+    "Totale incidenti":1,
+    "Persone coinvolte":3,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Vito Carluccio",
+    "Totale incidenti":1,
+    "Persone coinvolte":8,
+    "Illesi":7,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Vito Fornari",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Vito Mario Stampacchia",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Vittorio Emanuele Ii",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Vittorio Pagano",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Vittorio Tondi",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via Vecchia Surbo",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":2
+  },
+  {
+    "Strada":"Via Vecchia Frigole",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":1,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via V. Cuoco",
+    "Totale incidenti":1,
+    "Persone coinvolte":6,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Via V. Pagano",
+    "Totale incidenti":1,
+    "Persone coinvolte":5,
+    "Illesi":5,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Viale Eolo",
+    "Totale incidenti":1,
+    "Persone coinvolte":0,
+    "Illesi":0,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Via Zanardelli",
+    "Totale incidenti":1,
+    "Persone coinvolte":4,
+    "Illesi":3,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":1
+  },
+  {
+    "Strada":"Vico Mondo Nuovo",
+    "Totale incidenti":1,
+    "Persone coinvolte":2,
+    "Illesi":2,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  },
+  {
+    "Strada":"Viale Oronzo Quarta",
+    "Totale incidenti":1,
+    "Persone coinvolte":6,
+    "Illesi":6,
+    "Morti":"0",
+    "Prognosi Riservate":0,
+    "Feriti":0
+  }
+]

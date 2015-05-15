@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ugopiemontese.opendatalecce.MapActivity" >
+
+    <item
+        android:id="@+id/action_credits"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_credits"
+        android:icon="@android:drawable/ic_menu_help" />
+
+</menu>
